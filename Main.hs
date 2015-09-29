@@ -5,7 +5,6 @@
 
 module Main where
 
-import Data.Proxy
 import Data.Type.Equality
 
 data Zero
